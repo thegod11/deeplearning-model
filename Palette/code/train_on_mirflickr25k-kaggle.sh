@@ -1,0 +1,1 @@
+python run.py -p train -c config/colorization_mirflickr25k-kaggle.json -gpu 4,5,6,7

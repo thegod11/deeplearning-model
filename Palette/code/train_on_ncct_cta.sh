@@ -1,0 +1,1 @@
+python run.py -p train -c config/ncct_cta_r295_512.json -gpu 4,5,6,7
